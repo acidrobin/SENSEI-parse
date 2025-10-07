@@ -1,0 +1,13 @@
+models
+models_finetuned
+results
+*models_finetuned
+slurm_output
+argessay_models
+argessay_models_oracle
+argessay_models_para_oracle
+argessay_models_flan
+argessay_models_flan_kawarada
+argessay_models*
+backup
+backups

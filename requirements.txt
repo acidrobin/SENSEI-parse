@@ -1,0 +1,14 @@
+transformers>=4.35.0
+datasets>=2.13.0
+peft>=0.4.0
+trl>=0.6.0
+bitsandbytes>=0.41.0
+torch>=2.1.0
+tokenizers>=0.15.0
+pandas>=2.1.0
+numpy>=1.26.0
+rouge-score>=0.1.2
+scikit-learn>=1.3.0
+networkx>=3.1
+arglu>=0.1.0
+regex>=2023.13.1
