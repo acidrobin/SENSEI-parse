@@ -11,9 +11,11 @@ from argparse import ArgumentParser
 
 from trl import SFTTrainer
 from transformers import TrainingArguments
-from callbacks import EvalCallback
-from datasets import load_train_dataset, load_val_dataset
-from models import load_model_and_tokenizer
+
+from .callbacks import EvalCallback
+from .datasets import load_train_dataset, load_val_dataset
+from .models import load_model_and_tokenizer
+
 
 # ----------------------
 # Argument parsing

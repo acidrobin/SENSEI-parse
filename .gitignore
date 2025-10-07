@@ -11,3 +11,5 @@ argessay_models_flan_kawarada
 argessay_models*
 backup
 backups
+*.swp
+*__pycache__
